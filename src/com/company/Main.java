@@ -66,7 +66,7 @@ public class Main {
                     }
                     break;
                 case 2:
-                    System.out.println("***** Parent Menu *****");
+                    System.out.println("****** Parent Menu ******");
                     System.out.println();
                     System.out.println("Type 1 to register parent.");
                     System.out.println("Type 2 to edit a parents information.");
@@ -100,7 +100,7 @@ public class Main {
                     break;
 
                 case 3:
-                    System.out.println("****** Employee Menu ******");
+                    System.out.println("******* Employee Menu *******");
                     System.out.println();
                     System.out.println("Type 1 to add a new employee");
                     System.out.println("Type 2 to edit an employee");
