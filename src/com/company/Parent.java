@@ -58,8 +58,7 @@ public class Parent{
         try {
             return name + " " + CPR + " " + number + " " + kid.getCPR();
         }catch (NullPointerException e){
-            System.out.println("One or more parents were stored without a child. Start the program and choose to" +
-                    " edit a parent, to properly appoint a child to the parent(s)");
+
         }
         return name + " " + CPR + " " + number + " " + null;
     }
